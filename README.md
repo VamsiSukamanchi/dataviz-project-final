@@ -22,13 +22,14 @@ The following tasks and questions will drive the visualization and interaction d
  * How many sequels or remakes have made it to the list?
 
 ## Sketches
-[![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174437.jpg)]
+![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174437.jpg)
 
 The axes represent the year and total global sales, using the publisher variable as color in bar (stack). Hopefully, the number of publishers are not high making it hard for viz. The first question will be answered through this. If the bars are like a waterfall, then then there is increase in sales every year. Using tooltip, we can see which stack of the bar is increasing in length, to see which publisher is gaining popularity.
 
-[![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174458.jpg)]
+![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174458.jpg)
 
+For this viz, i'm considering a sample set of the data to draw conclusions. The axes are name of the game and region, with area representing the sales. If I observe a pattern like the ratio in area is same, then the sales are highly correlated. 
 
 ## Open Questions
-Can rows be parsed word by word into a dictionary to find common words?
-Can we take a sample set to represent the whole fairly?
+ - Can rows be parsed word by word into a dictionary to find common words?
+ - Can we take a sample set to represent the whole set fairly?
