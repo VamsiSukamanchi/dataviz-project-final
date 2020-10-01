@@ -8,7 +8,7 @@ The data I propose to visualize for my project is that of the videogame sales Th
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image]](https://vizhub.com/VamsiSukamanchi/dcec3d913e2a46eaaef900af26dbde56)
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/Screenshot%202020-09-30%20215515.png)](https://vizhub.com/VamsiSukamanchi/dcec3d913e2a46eaaef900af26dbde56)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
