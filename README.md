@@ -22,7 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
  * How many sequels or remakes have made it to the list?
 
 ## Sketches
-
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174437.jpg)]
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
