@@ -23,8 +23,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174437.jpg)]
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+The axes represent the year and total global sales, using the publisher variable as color in bar (stack). Hopefully, the number of publishers are not high making it hard for viz. The first question will be answered through this. If the bars are like a waterfall, then then there is increase in sales every year. Using tooltip, we can see which stack of the bar is increasing in length, to see which publisher is gaining popularity.
+
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-template-proposal/blob/master/IMG20201001174458.jpg)]
+
 
 ## Open Questions
 Can rows be parsed word by word into a dictionary to find common words?
