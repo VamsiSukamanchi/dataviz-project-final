@@ -35,8 +35,8 @@ For this viz, i'm considering a sample set of the data to draw conclusions. The 
  - Can we take a sample set to represent the whole set fairly?
 
 ## Schedule of deliverables
-For task 1, I will make a scatter plot with sales and year on axes with a menu filtering the publisher and see which one has an increase in sales (probably by producing a correaltion table for each publisher for an easy view of all publishers to the side). This will take two weeks to complete.
-For task 2, I will create a line chart with each line representing a region with games and their sales as the axes and the interaction would be to choose a game such that it would highlight the points of the sales of a game in all lines(if possible). I will see if these points increase/decrease w.r.t. previous points. This will take one and a half week to complete.
-For task 3, I plan to funnel/area/bubble chart for sales in every region. So the number of graphs is equal to number of regions and see which area is the greatest. This will take one week of time to complete.
-For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there. This will take half a week to complete. Thus, totaling to five weeks of work.
+ - For task 1, I will make a scatter plot with sales and year on axes with a menu filtering the publisher and see which one has an increase in sales (probably by producing a correaltion table for each publisher for an easy view of all publishers to the side). This will take two weeks to complete.
+ - For task 2, I will create a line chart with each line representing a region with games and their sales as the axes and the interaction would be to choose a game such that it would highlight the points of the sales of a game in all lines(if possible). I will see if these points increase/decrease w.r.t. previous points. This will take one and a half week to complete.
+ - For task 3, I plan to funnel/area/bubble chart for sales in every region. So the number of graphs is equal to number of regions and see which area is the greatest. This will take one week of time to complete.
+ - For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there. This will take half a week to complete. Thus, totaling to five weeks of work.
 
