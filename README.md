@@ -40,3 +40,10 @@ For this viz, i'm considering a sample set of the data to draw conclusions. The 
  - For task 3, I plan to funnel/area/bubble chart for sales in every region. So the number of graphs is equal to number of regions and see which area is the greatest. This will take one week of time to complete. Date of submission: 11/8/20
  - For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there. This will take half a week to complete. Thus, totaling to five weeks of work. Date of submission: 11/11/20
 
+## Final Vizs and insights
+
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/1.png)](https://vizhub.com/VamsiSukamanchi/a202ddcc762f4d6a9a9e1d2af522b772)
+
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20174739.png)](https://vizhub.com/VamsiSukamanchi/48ab2bdba2df494cbd688fbbfbf1f26f)
+
+[![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20175030.png)](https://vizhub.com/VamsiSukamanchi/c37eb738105840de9f43cdc889a72018)
