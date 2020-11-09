@@ -34,19 +34,17 @@ For this viz, i'm considering a sample set of the data to draw conclusions. The 
  - Can rows be parsed word by word into a dictionary to find common words?
  - Can we take a sample set to represent the whole set fairly?
 
-## Schedule of deliverables
- - For task 1, I will make a scatter plot with sales and year on axes with a menu filtering the publisher and see which one has an increase in sales (probably by producing a correaltion table for each publisher for an easy view of all publishers to the side). This will take two weeks to complete. Date of submission: 10/21/20
- - For task 2, I will create a line chart with each line representing a region with games and their sales as the axes and the interaction would be to choose a game such that it would highlight the points of the sales of a game in all lines(if possible). I will see if these points increase/decrease w.r.t. previous points. This will take one and a half week to complete. Date of submission: 11/1/20
- - For task 3, I plan to funnel/area/bubble chart for sales in every region. So the number of graphs is equal to number of regions and see which area is the greatest. This will take one week of time to complete. Date of submission: 11/8/20
- - For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there. This will take half a week to complete. Thus, totaling to five weeks of work. Date of submission: 11/11/20
-
 ## Final Vizs and insights
 
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/1.png)](https://vizhub.com/VamsiSukamanchi/a202ddcc762f4d6a9a9e1d2af522b772)
 
+This is a color legend plot which helped me to segway to the better idea to create a menu for publisher as in this plot of year v/s global sales of a game, we aren't able to see all the publishers.
+
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20174739.png)](https://vizhub.com/VamsiSukamanchi/48ab2bdba2df494cbd688fbbfbf1f26f)
+This is a bubble plot with genre and global sales as the axes. I have added EU sales and Japan sales to compare them to the global sales. Here, we can observe that EU sales are directly proportional to the Global sales but the sales in japan show no such relation. 
 
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20175030.png)](https://vizhub.com/VamsiSukamanchi/c37eb738105840de9f43cdc889a72018)
+This is a bar plot showing the total global sales yearly by a publisher/publishers. The publishers can be chosen from the dropdown menu. As far as I have observed there is a kind of normal distribution of sales. This is, most probably, because the number of good games increased every year and the global share for each game decreased. Until 2010, the  good games were limited in number, so, they made it to top 10000.
 
 ## Future Works 
- - For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there.
+ - I will create a word search bar with autocomplete feature to find matching games to check whether they are present in the list.
