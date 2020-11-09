@@ -47,3 +47,6 @@ For this viz, i'm considering a sample set of the data to draw conclusions. The 
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20174739.png)](https://vizhub.com/VamsiSukamanchi/48ab2bdba2df494cbd688fbbfbf1f26f)
 
 [![image](https://github.com/VamsiSukamanchi/dataviz-project-final/blob/master/Screenshot%202020-11-08%20175030.png)](https://vizhub.com/VamsiSukamanchi/c37eb738105840de9f43cdc889a72018)
+
+## Future Works 
+ - For task 4, I would create a word search bar with autocomplete feature to find matching games to check whether there are there.
