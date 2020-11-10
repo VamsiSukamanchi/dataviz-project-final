@@ -51,3 +51,6 @@ This is a bar plot showing the total global sales yearly by a publisher/publishe
 
 ## Future Works 
  - I will create a word search bar with autocomplete feature to find matching games to check whether they are present in the list.
+
+## TLDR, then watch this video
+Youtube : https://youtu.be/8-AM9z5mlMg
